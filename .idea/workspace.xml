@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88c53539-6d84-437c-b35f-4f36fcc9d7fe" name="Changes" comment="Not Really Started">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="88c53539-6d84-437c-b35f-4f36fcc9d7fe" name="Changes" comment="Maxed out newspaper pulls">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
@@ -64,11 +63,20 @@
       <option name="project" value="LOCAL" />
       <updated>1709955111669</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Maxed out newspaper pulls">
+      <option name="closed" value="true" />
+      <created>1710211313759</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1710211313759</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Not Really Started" />
-    <option name="LAST_COMMIT_MESSAGE" value="Not Really Started" />
+    <MESSAGE value="Maxed out newspaper pulls" />
+    <option name="LAST_COMMIT_MESSAGE" value="Maxed out newspaper pulls" />
   </component>
 </project>
